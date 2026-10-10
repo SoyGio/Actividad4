@@ -1,0 +1,10 @@
+﻿modelo,real,NEG,NEU,POS
+BERT multilingüe,NEG,10,0,0
+BERT multilingüe,NEU,1,3,6
+BERT multilingüe,POS,0,0,10
+RoBERTuito,NEG,7,3,0
+RoBERTuito,NEU,0,10,0
+RoBERTuito,POS,1,1,8
+XLM-RoBERTa,NEG,8,2,0
+XLM-RoBERTa,NEU,0,10,0
+XLM-RoBERTa,POS,0,0,10

@@ -1,0 +1,31 @@
+﻿id,texto,etiqueta,origen
+OP001,La entrega llegó a tiempo y los productos estaban frescos.,POS,Ejemplo sintético redactado para esta práctica
+OP002,Encontré todo lo que buscaba y el personal fue amable.,POS,Ejemplo sintético redactado para esta práctica
+OP003,La aplicación fue sencilla y el pedido llegó completo.,POS,Ejemplo sintético redactado para esta práctica
+OP004,Los precios fueron claros y la compra resultó rápida.,POS,Ejemplo sintético redactado para esta práctica
+OP005,Las frutas estaban en buen estado y bien empacadas.,POS,Ejemplo sintético redactado para esta práctica
+OP006,El servicio de atención resolvió mi problema rápidamente.,POS,Ejemplo sintético redactado para esta práctica
+OP007,Me gustó la variedad de productos disponibles.,POS,Ejemplo sintético redactado para esta práctica
+OP008,La tienda estaba limpia y las cajas avanzaron rápido.,POS,Ejemplo sintético redactado para esta práctica
+OP009,Recibí exactamente los productos que pedí.,POS,Ejemplo sintético redactado para esta práctica
+OP010,La promoción se aplicó correctamente en mi compra.,POS,Ejemplo sintético redactado para esta práctica
+OP011,Mi pedido llegó tarde y faltaban varios productos.,NEG,Ejemplo sintético redactado para esta práctica
+OP012,La fruta estaba dañada y nadie respondió mi reclamo.,NEG,Ejemplo sintético redactado para esta práctica
+OP013,El cobro fue incorrecto y no pudieron solucionarlo.,NEG,Ejemplo sintético redactado para esta práctica
+OP014,La aplicación se cerró y perdí mi carrito.,NEG,Ejemplo sintético redactado para esta práctica
+OP015,Los productos estaban agotados aunque aparecían disponibles.,NEG,Ejemplo sintético redactado para esta práctica
+OP016,Esperé demasiado tiempo para recibir mi compra.,NEG,Ejemplo sintético redactado para esta práctica
+OP017,La atención fue mala y no resolvieron el problema.,NEG,Ejemplo sintético redactado para esta práctica
+OP018,Me entregaron artículos equivocados y sin aviso.,NEG,Ejemplo sintético redactado para esta práctica
+OP019,Los precios de la tienda no coincidían con la aplicación.,NEG,Ejemplo sintético redactado para esta práctica
+OP020,La carne llegó en mal estado y tuve que devolverla.,NEG,Ejemplo sintético redactado para esta práctica
+OP021,Compré leche y pan en la tienda esta mañana.,NEU,Ejemplo sintético redactado para esta práctica
+OP022,El pedido contiene cinco artículos de distintas categorías.,NEU,Ejemplo sintético redactado para esta práctica
+OP023,La tienda abre a las ocho y cierra a las diez.,NEU,Ejemplo sintético redactado para esta práctica
+OP024,El recibo incluye los productos y sus precios.,NEU,Ejemplo sintético redactado para esta práctica
+OP025,La aplicación muestra el historial de compras.,NEU,Ejemplo sintético redactado para esta práctica
+OP026,Recogí el pedido en el módulo de atención.,NEU,Ejemplo sintético redactado para esta práctica
+OP027,El supermercado tiene dos entradas principales.,NEU,Ejemplo sintético redactado para esta práctica
+OP028,La compra se realizó el día lunes.,NEU,Ejemplo sintético redactado para esta práctica
+OP029,El paquete contenía productos de limpieza.,NEU,Ejemplo sintético redactado para esta práctica
+OP030,La sucursal cuenta con estacionamiento.,NEU,Ejemplo sintético redactado para esta práctica
